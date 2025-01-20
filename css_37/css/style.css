@@ -1,0 +1,22 @@
+body {
+    font-size: 40px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.block,
+.inline {
+    background: #e0d5c5;
+}
+
+.block {
+    /* padding: 50px; */
+    /* padding: 30px 60px 10px 100px; */
+    /* padding: 30px 60px 10px; */
+    padding: 30px 60px;
+
+
+
+}
