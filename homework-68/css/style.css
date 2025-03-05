@@ -1,0 +1,33 @@
+body {
+    background: #000;
+}
+
+.text {
+    color: white;
+    font-size: 35px;
+}
+
+.quad {
+    background: antiquewhite;
+    width: 710px;
+    min-height: 100px;
+    border-radius: 10px;
+}
+
+.circle {
+    background: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.quad {
+    position: fixed;
+    left: 50%;
+    right: 50px;
+    bottom: 100px;
+}
+.circle {
+    position: fixed;
+    left: 55%;
+    bottom: 150px;
+}
